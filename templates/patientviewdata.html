@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>welcome</h1>
+{% for x in message.values %}
+   <p>UserName: {{ x.Patient_username }}</p> <br>
+    <p>Password: {{ x.Patient_Password }}</p>
+{% endfor %}
+<p>Address: {{ mess2 }}</p>
+</body>
+</html>
