@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a793be41-c408-4e8a-85b4-73530d7b65f2" name="Default" comment="" />
+    <list default="true" id="a793be41-c408-4e8a-85b4-73530d7b65f2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/hospitalapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hospitalapp/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +61,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hospitalapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="336">
+              <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -408,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hospitalapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="336">
+          <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>

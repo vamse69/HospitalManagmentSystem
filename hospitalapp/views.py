@@ -20,5 +20,5 @@ def patient_login(request):
             print("sucess")
             return render(request,"patientviewdata.html", {"message":mess, "mess2":mess3})
         else:
-            return render(request,"patient_form.html")
+            return render(request,"patient_form.html",{"message":"message"})
 
